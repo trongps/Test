@@ -18,7 +18,6 @@ import registration.registrationDTO;
 
 /**
  *
- * @author TrongPS
  */
 public class LoginServlet extends HttpServlet {
 
